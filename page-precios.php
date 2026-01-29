@@ -3,7 +3,7 @@
 
 ?>
 
-<h1>Contacta Con Nosotros</h1>
+<h1>Precios</h1>
 
  <?php
     while(have_posts()){
